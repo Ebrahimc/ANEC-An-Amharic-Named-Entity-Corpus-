@@ -2,4 +2,4 @@
 A Dataset for Amharic Named Entity Recognition
 
 Please refer ANEC: Amharic Named Entity Corpus and Transformer Based Recognizer. 
-https://arxiv.org/abs/2207.00785
+https://ieeexplore.ieee.org/document/10040676
